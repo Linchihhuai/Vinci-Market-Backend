@@ -23,13 +23,13 @@ prod = {
 
         'ENGINE': 'django.db.backends.postgresql_psycopg2',
 
-        'NAME': 'deb5micsa92av9',
+        'NAME': 'vinci_market_db',
 
-        'USER': 'vyhbzhoeqpbnvn',
+        'USER': 'vinci_market_db_user',
 
-        'PASSWORD': '5377b6f1814f04d6781abe364a0210e66059dcd1b6397a89dc667af2f3b2f6a3',
+        'PASSWORD': 'VS3LOg65PCEJC5ZUhIwtbiDuhhfORc6d',
 
-        'HOST': 'ec2-34-254-120-2.eu-west-1.compute.amazonaws.com',
+        'HOST': 'dpg-ck4m5i6ct0pc73coftj0-a',
 
         'PORT': '5432',
 
