@@ -4,15 +4,15 @@ dev = {
 
         'ENGINE': 'django.db.backends.postgresql_psycopg2',
 
-        'NAME': 'postgres',
+        'NAME': 'vinci_market_db',
 
-        'USER': 'postgres',
+        'USER': 'vinci_market_db_user',
 
-        'PASSWORD': 'azerty',
+        'PASSWORD': 'VS3LOg65PCEJC5ZUhIwtbiDuhhfORc6d',
 
-        'HOST': 'localhost',
+        'HOST': 'dpg-ck4m5i6ct0pc73coftj0-a.singapore-postgres.render.com',
 
-        'PORT': '5433',
+        'PORT': '5432',
 
     }
 
@@ -29,10 +29,12 @@ prod = {
 
         'PASSWORD': 'VS3LOg65PCEJC5ZUhIwtbiDuhhfORc6d',
 
-        'HOST': 'dpg-ck4m5i6ct0pc73coftj0-a',
+        'HOST': 'ck4m5i6ct0pc73coftj0-a',
 
         'PORT': '5432',
 
     }
 
 }
+
+#
